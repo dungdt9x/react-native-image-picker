@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/6f68779c75b1b8fdddbe363b8b35da5d/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dotrungdung/dcc/node_modules/react-native-image-picker/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/dotrungdung/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ac36eaa8118d1f73c7edf55ace0385ea/res/anim/abc_popup_exit.xml"
+    }
+]
